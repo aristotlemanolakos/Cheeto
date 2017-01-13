@@ -1,0 +1,39 @@
+body{
+background-color: #ffa500;
+margin: auto;
+width: 80%;
+}
+
+h1, p{
+	text-align: center;
+}
+
+h1{
+	font-family: 'Montserrat';
+}
+
+img{
+	padding-top: 10px;
+	display: block;
+	margin: auto;
+    width: 30%;
+}
+
+.bg-blend {
+  background-image: url(https://static1.squarespace.com/static/502fd39724ac2660dce878ca/572d0dd79f72664ead4e8ac1/5734cfbc3c44d8363c92422b/1476288648695/NYM_Cheeto_FINAL_2.jpg);
+  background-color: #ffa500;
+  background-blend-mode: multiply;
+}
+
+.demo > div {
+  width: 300px;
+  height: 320px;
+  margin: auto;
+  background-size: cover;
+}
+.demo {
+  width: 600px;
+  overflow: hidden;
+}
+
+
